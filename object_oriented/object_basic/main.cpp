@@ -1,6 +1,7 @@
 #include "clock.h"
 
 void clock_demo();
+void scope_demo();
 
 int main(int argc, char *argv[]) {
   clock_demo();
